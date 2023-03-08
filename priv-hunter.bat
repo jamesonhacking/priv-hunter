@@ -1,4 +1,4 @@
-echo off
+@echo off
 REM priv-hunter v1.0.1 -- by @james1052
 REM This is a tool for lateral privilege escalation when in a very limited environment like Citrix with EDR and no local admin privileges.
 REM The tool sprays one set of credentials across a list of targets, in search of local admin privileges on a remote target.
