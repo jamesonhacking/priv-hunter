@@ -5,6 +5,6 @@ Priv-hunter is a loud but simple batch file for pentesters that helps expand inf
 
 Usage:
 
-priv-hunter.bat <input-file> <domain> <username> <password>
+priv-hunter.bat \<input-file> \<domain> \<username> \<password>
 
-The <input-file> should be a text file with hostnames or IP addresses, each on a separate line.
+The \<input-file> should be a text file with hostnames or IP addresses, each on a separate line.
